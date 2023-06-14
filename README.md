@@ -16,6 +16,8 @@ ______________________________________________________
 ### Preview of App:
 ![App preview](assets/Screenshot%202023-05-28%20at%205.23.04%20PM.png)
 
+### Deployment Link: https://alto-fx.github.io/whats-for-dinner/
+
 ### Context:
 - The project was introduced 5 days before the due date. I dedicated time to work on the project outside of class each of the 5 days. I have completed 3 weeks of Mod 1.
 
